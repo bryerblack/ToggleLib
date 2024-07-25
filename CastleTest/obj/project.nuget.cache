@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztQbrfnukhqGLBSKfPziZRSwM+UojUNs5ylVY+88zOMmDXzB7AQf78rZMlUIrjJcl0LWcAina5OmVOc/SqGNOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Familia1\\source\\repos\\CastleTest\\CastleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Familia1\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\Familia1\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
