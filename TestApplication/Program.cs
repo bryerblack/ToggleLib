@@ -1,3 +1,4 @@
+using MrAdviceTest;
 using System.Diagnostics;
 using System.Reflection;
 
@@ -26,6 +27,7 @@ var summaries = new[]
 
 app.MapGet("/weatherforecast", () =>
 {
+    
     var forecast =  Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (

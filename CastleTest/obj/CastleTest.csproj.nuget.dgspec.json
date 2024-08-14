@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia1\\source\\repos\\CastleTest\\CastleTest.csproj": {}
+    "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\CastleTest\\CastleTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia1\\source\\repos\\CastleTest\\CastleTest.csproj": {
+    "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\CastleTest\\CastleTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia1\\source\\repos\\CastleTest\\CastleTest.csproj",
+        "projectUniqueName": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\CastleTest\\CastleTest.csproj",
         "projectName": "CastleTest",
-        "projectPath": "C:\\Users\\Familia1\\source\\repos\\CastleTest\\CastleTest.csproj",
-        "packagesPath": "C:\\Users\\Familia1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia1\\source\\repos\\CastleTest\\obj\\",
+        "projectPath": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\CastleTest\\CastleTest.csproj",
+        "packagesPath": "C:\\Users\\Visitante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\CastleTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Familia1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Visitante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,12 +39,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Castle.Core": {
-              "target": "Package",
-              "version": "[5.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -56,12 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

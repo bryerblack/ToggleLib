@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\migrations\\20240813165003_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:migrations\\20240813165003_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\featuretogglemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:featuretogglemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\featuretoggledbmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:featuretoggledbmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\featurtogglemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:featurtogglemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\featuretoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:featuretoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|c:\\users\\visitante\\source\\repos\\togglelib\\mradvicetest\\mradvicetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2D34260-E4F3-49FA-A26C-9D7DC6829519}|MrAdviceTest.csproj|solutionrelative:mradvicetest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240813165003_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Migrations\\20240813165003_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813165003_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Migrations\\20240813165003_FirstMigration.cs",
+              "RelativeToolTip": "Migrations\\20240813165003_FirstMigration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:50:03.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\AppDbContextFactory.cs",
+              "RelativeToolTip": "AppDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAC8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:47:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:42:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MrAdviceTest",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj",
+              "RelativeDocumentMoniker": "MrAdviceTest.csproj",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj",
+              "RelativeToolTip": "MrAdviceTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T14:33:23.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:34:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeatureToggleDBMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggleDBMapper.cs",
+              "RelativeDocumentMoniker": "FeatureToggleDBMapper.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggleDBMapper.cs",
+              "RelativeToolTip": "FeatureToggleDBMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:05:43.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeaturToggleMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeaturToggleMapper.cs",
+              "RelativeDocumentMoniker": "FeaturToggleMapper.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeaturToggleMapper.cs",
+              "RelativeToolTip": "FeaturToggleMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:01:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeatureToggleModel.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggleModel.cs",
+              "RelativeDocumentMoniker": "FeatureToggleModel.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggleModel.cs",
+              "RelativeToolTip": "FeatureToggleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:40:18.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeatureToggle.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggle.cs",
+              "RelativeDocumentMoniker": "FeatureToggle.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\FeatureToggle.cs",
+              "RelativeToolTip": "FeatureToggle.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:04:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:45:20.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

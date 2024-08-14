@@ -1,5 +1,6 @@
 ﻿using ArxOne.MrAdvice.Advice;
 using MethodDecorator.Fody.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,6 +34,12 @@ namespace MrAdviceTest
             var method = context.TargetMethod;
             var customAttribute = method.CustomAttributes;
             var toggle = customAttribute.FirstOrDefault()?.ConstructorArguments.First().Value;
+
+            var contextOptions = new DbContextOptionsBuilder<ApplicationDbContext>()
+            .UseSqlServer(@"Server=DESKTOP-IPRIRSK\SQLEXPRESS;Database=Test;ConnectRetryCount=0")
+            .Options;
+
+            using var contextDb = new ApplicationDbContext(contextOptions);
 
             if (toggle is bool x)
                 if (x)

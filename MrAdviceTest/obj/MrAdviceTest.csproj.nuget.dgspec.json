@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia1\\source\\repos\\MrAdviceTest\\MrAdviceTest.csproj": {}
+    "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia1\\source\\repos\\MrAdviceTest\\MrAdviceTest.csproj": {
+    "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia1\\source\\repos\\MrAdviceTest\\MrAdviceTest.csproj",
+        "projectUniqueName": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj",
         "projectName": "MrAdviceTest",
-        "projectPath": "C:\\Users\\Familia1\\source\\repos\\MrAdviceTest\\MrAdviceTest.csproj",
-        "packagesPath": "C:\\Users\\Familia1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia1\\source\\repos\\MrAdviceTest\\obj\\",
+        "projectPath": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\MrAdviceTest.csproj",
+        "packagesPath": "C:\\Users\\Visitante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Visitante\\source\\repos\\ToggleLib\\MrAdviceTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Familia1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Visitante\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,6 +55,26 @@
             "MethodDecorator.Fody": {
               "target": "Package",
               "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
             },
             "MrAdvice": {
               "target": "Package",
@@ -71,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
