@@ -7,7 +7,7 @@ var contextOptions = new DbContextOptionsBuilder<ApplicationDbContext>()
            .Options;
 
 using var contextDb = new ApplicationDbContext(contextOptions);
-contextDb.featureToggleModels.Add(new FeatureToggleModel("td", false, FeatureToggleType.RELEASE, DateOnly.FromDateTime(DateTime.Now)));
+var ft = contextDb.featureToggleModels.ToList();
 contextDb.SaveChanges();
 contextDb.Dispose();
 var test = new Test();

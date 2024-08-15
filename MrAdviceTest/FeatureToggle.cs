@@ -15,11 +15,12 @@ namespace MrAdviceTest
     [AttributeUsage(AttributeTargets.Method | AttributeTargets.Constructor | AttributeTargets.Assembly | AttributeTargets.Module)]
     public class FeatureToggle : Attribute, IMethodAdvice
     {
-        public bool Toggle { get; set; }
+        public string FeatureToggleId { get; set; }
+        public FeatureToggleDBMapper _featureToggleDBMapper = new FeatureToggleDBMapper();
 
-        public FeatureToggle(bool toggle) 
+        public FeatureToggle(string featureToggleId) 
         {
-            Toggle = toggle;
+            FeatureToggleId = featureToggleId;
         }
 
         public void Advise(MethodAdviceContext context)
@@ -33,20 +34,16 @@ namespace MrAdviceTest
 
             var method = context.TargetMethod;
             var customAttribute = method.CustomAttributes;
-            var toggle = customAttribute.FirstOrDefault()?.ConstructorArguments.First().Value;
+            var toggleId = customAttribute.FirstOrDefault()?.ConstructorArguments.First().Value;
 
-            var contextOptions = new DbContextOptionsBuilder<ApplicationDbContext>()
-            .UseSqlServer(@"Server=DESKTOP-IPRIRSK\SQLEXPRESS;Database=Test;ConnectRetryCount=0")
-            .Options;
-
-            using var contextDb = new ApplicationDbContext(contextOptions);
-
-            if (toggle is bool x)
-                if (x)
+            if (toggleId is string x) {
+                var model = _featureToggleDBMapper.Map(x);
+                if (model.Toggle)
                 {
                     context.Proceed();
                 } else
                     Console.WriteLine("METHOD OFF - CANCELING DETECTION");
+            }
         }
     }
 }

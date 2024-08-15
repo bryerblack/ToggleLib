@@ -25,13 +25,13 @@ namespace MrAdviceTest
             TestMethodOn();
         }
 
-        [FeatureToggle(true)]
+        [FeatureToggle("FT3221")]
         public virtual void TestMethodOn()
         {
             Console.WriteLine("enter TesteMethod() - On");
         }
 
-        [FeatureToggle(false)]
+        [FeatureToggle("FT0000")]
         public virtual void TestMethodOff()
         {
             Console.WriteLine("THIS SOULD NOT HAVE HAPPENED");
